@@ -1,0 +1,44 @@
+.nena
+	font-weight:bold
+	color:white
+	padding:20px
+	border:4px
+	margin:10px
+	transition:all 500ms
+	border-radius:2s
+
+	.nena :hover{
+	transition: all 500ms
+	border-radius: 2s
+}
+
+
+#menu{
+	display: flex;
+	color: #BF9B77;
+	font-size: 13px;
+	flex-wrap: wrap;
+
+}
+#menu{
+	display: flex;
+	color: #BF9B77;
+	font-size: 13px;
+	flex-wrap: wrap;
+	ul{
+	li{
+	a{
+		color: #DAAADB;
+		justify-content: center;
+	}
+	/*display: inline-block;*/
+	display: inline;
+	float: left;
+	padding: 7px;
+	border-right: 1px solid #ccc;
+	padding-left: 8px;
+	padding-right:8px;
+	margin-right: 200px;
+	}
+	}
+	}
